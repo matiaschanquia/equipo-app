@@ -1,3 +1,8 @@
+# Sobre
+
+Esta simple aplicación web permite agregar distintos jugadores a una lista de titulares o suplentes, a su vez, permite devolverlos a su lista original de jugadores.
+Aplique mis conocimientos de HTML, CSS, JS, React y Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
